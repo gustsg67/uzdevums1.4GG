@@ -1,0 +1,1 @@
+print ("Strādaju no apakšmapes.")

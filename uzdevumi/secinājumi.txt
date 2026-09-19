@@ -1,0 +1,2 @@
+Ceļš priekš funkcijas tiek rēķinats no tās mapes(direktorijas), kurā terminali šobrīd atrodas. Tāpēc komandapython uzdevumi/diena1.py strādā tikai tad, ja atrodamies projekta saknē.
+Ja terminālis jau atrodas mapē uzdevumi, fails ir jāsauc tieši python diena1.py, jo mape uzdevumi/uzdevumi neeksistē.
